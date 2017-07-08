@@ -25,7 +25,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         self.createCoreDataFetchRequest()
-            }
+    }
     
     // MARK: - IBAction
     @IBAction func addButtonPressed() {
